@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1709811203 source:c:\users\cagri\desktop\printf (''hello world'')\Örnek18(while loops)\main.c
+	<stdio.h>
+	<stdlib.h>
+

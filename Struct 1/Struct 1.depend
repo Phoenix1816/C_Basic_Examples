@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1716560046 source:c:\users\cagri\desktop\c ve c++\struct\struct 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

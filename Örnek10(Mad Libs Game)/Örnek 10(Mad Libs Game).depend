@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1706698207 source:c:\users\cagri\desktop\printf (''hello world'')\Örnek 10(mad libs game)\main.c
+	<stdio.h>
+	<stdlib.h>
+
